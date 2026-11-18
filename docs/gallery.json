@@ -3201,6 +3201,108 @@
    }
   ]
  },
+ "switch:C7AB5EB5BC593814C18959860F3600AE": {
+  "game": "The Legend of Zelda: Ocarina of Time",
+  "total": 40,
+  "shots": [
+   {
+    "time": "2026-11-05T13:41:45",
+    "img": "20261105134145-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-05T13:44:17",
+    "img": "20261105134417-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-05T13:47:39",
+    "img": "20261105134739-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-05T13:48:27",
+    "img": "20261105134827-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-05T13:48:31",
+    "img": "20261105134831-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-05T13:54:06",
+    "img": "20261105135406-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-05T13:59:11",
+    "img": "20261105135911-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-05T14:01:52",
+    "img": "20261105140152-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:18:51",
+    "img": "20261111111851-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:26:11",
+    "img": "20261111112611-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:26:22",
+    "img": "20261111112622-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:26:42",
+    "img": "20261111112642-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:30:38",
+    "img": "20261111113038-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:32:01",
+    "img": "20261111113201-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:32:06",
+    "img": "20261111113206-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:32:07",
+    "img": "20261111113207-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:32:14",
+    "img": "20261111113214-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:34:32",
+    "img": "20261111113432-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:34:55",
+    "img": "20261111113455-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:36:33",
+    "img": "20261111113633-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:38:23",
+    "img": "20261111113823-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:39:38",
+    "img": "20261111113938-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:47:24",
+    "img": "20261111114724-c7ab5eb5.webp"
+   },
+   {
+    "time": "2026-11-11T11:53:22",
+    "img": "20261111115322-c7ab5eb5.webp"
+   }
+  ]
+ },
  "switch:CC47F0DEC75C1FD3B1F95FA9F9D57667": {
   "game": "The Legend of Zelda: Tears of the Kingdom",
   "total": 313,
@@ -5223,7 +5325,7 @@
   ]
  },
  "psn-played:CUSA14156_00": {
-  "game": "Ni no Kuni: Wrath of the White Witch",
+  "game": "Ni no Kuni Wrath of the White Witch",
   "total": 2,
   "shots": [
    {
@@ -5473,7 +5575,7 @@
   ]
  },
  "psn-played:CUSA05877_00": {
-  "game": "Persona 5 + Persona 5 Royal",
+  "game": "Persona 5 + Royal",
   "total": 3,
   "shots": [
    {
