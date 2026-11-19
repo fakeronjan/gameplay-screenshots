@@ -6743,7 +6743,7 @@
  },
  "camera:The Walking Dead: Season 1": {
   "game": "The Walking Dead: Season 1",
-  "total": 7,
+  "total": 6,
   "shots": [
    {
     "time": "2013-07-08T20:09:05",
@@ -6756,10 +6756,6 @@
    {
     "time": "2013-07-08T20:09:25",
     "img": "cam-0b3bd7c0-fa8d.webp"
-   },
-   {
-    "time": "2013-07-08T20:09:25",
-    "img": "cam-2f67b58c-d15c.webp"
    },
    {
     "time": "2013-07-08T20:09:37",
@@ -6777,7 +6773,7 @@
  },
  "camera:NBA 2K13": {
   "game": "NBA 2K13",
-  "total": 25,
+  "total": 21,
   "shots": [
    {
     "time": "2013-09-20T09:47:50",
@@ -6800,20 +6796,8 @@
     "img": "cam-fc2daa49-7a3d.webp"
    },
    {
-    "time": "2013-09-20T09:48:05",
-    "img": "cam-736c056e-81c9.webp"
-   },
-   {
     "time": "2013-09-20T09:48:07",
     "img": "cam-27575f2b-8137.webp"
-   },
-   {
-    "time": "2013-09-20T09:48:07",
-    "img": "cam-a968490f-22b9.webp"
-   },
-   {
-    "time": "2013-09-20T09:48:08",
-    "img": "cam-5713125e-b2dc.webp"
    },
    {
     "time": "2013-09-20T09:48:17",
@@ -6854,10 +6838,6 @@
    {
     "time": "2013-09-20T09:48:38",
     "img": "cam-e236f358-4a85.webp"
-   },
-   {
-    "time": "2013-09-20T09:48:38",
-    "img": "cam-30fd0d09-a632.webp"
    },
    {
     "time": "2013-09-20T09:48:42",
@@ -7071,7 +7051,7 @@
  },
  "camera:Super Mario Maker": {
   "game": "Super Mario Maker",
-  "total": 8,
+  "total": 7,
   "shots": [
    {
     "time": "2016-12-15T07:10:44",
@@ -7100,10 +7080,6 @@
    {
     "time": "2019-11-28T13:40:51",
     "img": "cam-5d6035c7-5a65.webp"
-   },
-   {
-    "time": "2019-11-28T13:40:51",
-    "img": "cam-9ce109b5-3ce1.webp"
    }
   ]
  },
@@ -7192,7 +7168,7 @@
  },
  "camera:Mario Kart 8 + Deluxe": {
   "game": "Mario Kart 8 + Deluxe",
-  "total": 25,
+  "total": 23,
   "shots": [
    {
     "time": "2017-06-29T19:22:00",
@@ -7270,15 +7246,7 @@
    },
    {
     "time": "2020-03-19T18:00:07",
-    "img": "cam-df3db238-a84d.webp"
-   },
-   {
-    "time": "2020-03-19T18:00:07",
     "img": "cam-211434a4-3c75.webp"
-   },
-   {
-    "time": "2020-03-19T18:05:52",
-    "img": "cam-7475cebf-7a42.webp"
    },
    {
     "time": "2020-03-19T18:05:52",
@@ -7651,7 +7619,7 @@
  },
  "camera:EarthBound": {
   "game": "EarthBound",
-  "total": 6,
+  "total": 5,
   "shots": [
    {
     "time": "2017-11-24T08:26:52",
@@ -7673,11 +7641,6 @@
    {
     "time": "2024-01-01T11:30:14",
     "img": "cam-13eae95d-d323.webp",
-    "tall": true
-   },
-   {
-    "time": "2024-01-01T11:30:14",
-    "img": "cam-74806a07-73ab.webp",
     "tall": true
    }
   ]
@@ -7890,15 +7853,11 @@
  },
  "camera:Tetris Attack": {
   "game": "Tetris Attack",
-  "total": 4,
+  "total": 3,
   "shots": [
    {
     "time": "2018-01-04T22:31:26",
     "img": "cam-3add37b2-3545.webp"
-   },
-   {
-    "time": "2021-09-05T11:36:04",
-    "img": "cam-96396658-9def.webp"
    },
    {
     "time": "2021-09-05T11:36:04",
@@ -8077,7 +8036,7 @@
  },
  "camera:Super Mario 64": {
   "game": "Super Mario 64",
-  "total": 4,
+  "total": 3,
   "shots": [
    {
     "time": "2018-06-28T19:11:50",
@@ -8091,11 +8050,6 @@
    {
     "time": "2020-05-25T14:54:30",
     "img": "cam-3d7e9be2-fbf8.webp",
-    "tall": true
-   },
-   {
-    "time": "2020-05-25T14:54:31",
-    "img": "cam-87f5c893-352c.webp",
     "tall": true
    }
   ]
@@ -8240,7 +8194,7 @@
  },
  "camera:Mario Paint": {
   "game": "Mario Paint",
-  "total": 184,
+  "total": 175,
   "shots": [
    {
     "time": "2018-11-13T22:26:21",
@@ -8249,10 +8203,6 @@
    {
     "time": "2018-11-13T22:28:54",
     "img": "cam-2c19c534-dda2.webp"
-   },
-   {
-    "time": "2019-12-07T13:41:56",
-    "img": "cam-505a19db-a62b.webp"
    },
    {
     "time": "2019-12-07T13:41:56",
@@ -8269,10 +8219,6 @@
    {
     "time": "2019-12-07T13:50:18",
     "img": "cam-88027e51-34dc.webp"
-   },
-   {
-    "time": "2019-12-07T13:50:18",
-    "img": "cam-ec5b72bf-25f0.webp"
    },
    {
     "time": "2020-03-28T14:17:23",
@@ -8299,16 +8245,8 @@
     "img": "cam-22ab2645-94be.webp"
    },
    {
-    "time": "2020-03-28T16:10:02",
-    "img": "cam-2d8122d6-6b24.webp"
-   },
-   {
     "time": "2020-03-28T16:10:03",
     "img": "cam-b10a5254-4c19.webp"
-   },
-   {
-    "time": "2020-03-28T16:53:36",
-    "img": "cam-c5b24f1f-4b0d.webp"
    },
    {
     "time": "2020-03-28T16:53:37",
@@ -8332,10 +8270,6 @@
     "img": "cam-2b2d7439-97b0.webp"
    },
    {
-    "time": "2020-06-21T09:51:40",
-    "img": "cam-c99563cb-2bd6.webp"
-   },
-   {
     "time": "2021-03-28T10:52:15",
     "img": "cam-fa328862-319e.webp"
    },
@@ -8347,10 +8281,6 @@
     "time": "2021-03-28T10:59:29",
     "img": "cam-542d5548-93a4.webp",
     "tall": true
-   },
-   {
-    "time": "2021-09-05T11:57:25",
-    "img": "cam-2fb2383c-c808.webp"
    },
    {
     "time": "2021-09-05T11:57:25",
@@ -8407,10 +8337,6 @@
    {
     "time": "2025-09-02T19:35:11",
     "img": "cam-5b0c8619-7634.webp"
-   },
-   {
-    "time": "2025-09-02T19:36:51",
-    "img": "cam-49aed810-ba67.webp"
    },
    {
     "time": "2025-09-02T19:37:25",
@@ -8544,14 +8470,6 @@
    {
     "time": "2025-09-26T21:15:11",
     "img": "cam-566c6f5b-f4ca.webp"
-   },
-   {
-    "time": "2025-09-26T21:22:00",
-    "img": "cam-b2d74e49-0459.webp"
-   },
-   {
-    "time": "2025-09-26T21:59:04",
-    "img": "cam-9006952d-5738.webp"
    },
    {
     "time": "2025-09-27T15:21:11",
@@ -8986,7 +8904,7 @@
  },
  "camera:Super Smash Bros. Ultimate": {
   "game": "Super Smash Bros. Ultimate",
-  "total": 8,
+  "total": 7,
   "shots": [
    {
     "time": "2018-12-15T09:27:04",
@@ -9007,10 +8925,6 @@
    {
     "time": "2019-06-09T20:09:40",
     "img": "cam-bcccdaee-e27a.webp"
-   },
-   {
-    "time": "2020-03-24T17:33:01",
-    "img": "cam-1b18bdb0-54b3.webp"
    },
    {
     "time": "2020-03-24T17:33:01",
@@ -9129,7 +9043,7 @@
  },
  "camera:Animal Crossing: New Horizons": {
   "game": "Animal Crossing: New Horizons",
-  "total": 68,
+  "total": 60,
   "shots": [
    {
     "time": "2020-03-20T20:58:25",
@@ -9148,20 +9062,12 @@
     "img": "cam-bef1472a-9915.webp"
    },
    {
-    "time": "2020-04-08T22:03:55",
-    "img": "cam-4713b40d-41a1.webp"
-   },
-   {
     "time": "2020-04-08T22:03:56",
     "img": "cam-a98898d2-2fc6.webp"
    },
    {
     "time": "2020-04-09T08:33:09",
     "img": "cam-d7f5b3dd-4fb2.webp"
-   },
-   {
-    "time": "2020-04-12T09:44:19",
-    "img": "cam-e2b06146-1161.webp"
    },
    {
     "time": "2020-04-12T09:44:20",
@@ -9172,16 +9078,8 @@
     "img": "cam-d0980bea-7379.webp"
    },
    {
-    "time": "2020-04-15T12:35:31",
-    "img": "cam-c494bc0d-1a96.webp"
-   },
-   {
     "time": "2020-04-18T09:07:54",
     "img": "cam-92d0a5ab-cd01.webp"
-   },
-   {
-    "time": "2020-04-19T10:35:15",
-    "img": "cam-b4d7171b-1194.webp"
    },
    {
     "time": "2020-04-19T10:35:16",
@@ -9208,16 +9106,8 @@
     "img": "cam-4432b02f-c218.webp"
    },
    {
-    "time": "2020-11-08T17:02:52",
-    "img": "cam-41319a07-b122.webp"
-   },
-   {
     "time": "2020-11-08T17:02:53",
     "img": "cam-123387cf-dd73.webp"
-   },
-   {
-    "time": "2020-11-26T11:48:40",
-    "img": "cam-b5ab1c86-4316.webp"
    },
    {
     "time": "2020-11-26T11:48:41",
@@ -9242,10 +9132,6 @@
    {
     "time": "2021-12-29T20:43:35",
     "img": "cam-b95e92b5-60d8.webp"
-   },
-   {
-    "time": "2021-12-29T20:43:35",
-    "img": "cam-a40aafbf-1edc.webp"
    },
    {
     "time": "2021-12-29T20:44:56",
@@ -9349,10 +9235,6 @@
     "img": "cam-57d7a255-352f.webp"
    },
    {
-    "time": "2022-09-04T09:15:28",
-    "img": "cam-ce501b28-b148.webp"
-   },
-   {
     "time": "2022-09-04T09:17:07",
     "img": "cam-82de7cf5-baf1.webp"
    },
@@ -9423,12 +9305,8 @@
  },
  "camera:NBA 2K20": {
   "game": "NBA 2K20",
-  "total": 16,
+  "total": 10,
   "shots": [
-   {
-    "time": "2020-04-05T11:35:49",
-    "img": "cam-d32b3df1-2e5f.webp"
-   },
    {
     "time": "2020-04-05T11:35:50",
     "img": "cam-cb706687-e8a6.webp"
@@ -9449,41 +9327,20 @@
    },
    {
     "time": "2020-04-05T12:09:25",
-    "img": "cam-8b5812c4-80b2.webp",
-    "tall": true
-   },
-   {
-    "time": "2020-04-05T12:09:25",
     "img": "cam-91301157-4dfa.webp",
     "tall": true
-   },
-   {
-    "time": "2020-04-05T12:15:37",
-    "img": "cam-7d9db700-84ca.webp"
    },
    {
     "time": "2020-04-05T12:15:37",
     "img": "cam-a10fcf4a-ef23.webp"
    },
    {
-    "time": "2020-04-05T12:39:48",
-    "img": "cam-546ad073-a994.webp"
-   },
-   {
     "time": "2020-04-05T12:39:49",
     "img": "cam-be616a60-8eae.webp"
    },
    {
-    "time": "2020-04-05T14:35:48",
-    "img": "cam-7b88123d-9529.webp"
-   },
-   {
     "time": "2020-04-05T14:35:49",
     "img": "cam-29da451f-7b07.webp"
-   },
-   {
-    "time": "2020-04-05T15:06:42",
-    "img": "cam-35e53e82-7983.webp"
    },
    {
     "time": "2020-04-05T15:06:43",
@@ -9497,12 +9354,8 @@
  },
  "camera:Bug Fables: The Everlasting Sapling": {
   "game": "Bug Fables: The Everlasting Sapling",
-  "total": 2,
+  "total": 1,
   "shots": [
-   {
-    "time": "2020-05-30T11:48:12",
-    "img": "cam-49ce8164-8c0b.webp"
-   },
    {
     "time": "2020-05-30T11:48:12",
     "img": "cam-2fb0bb4e-d7b4.webp"
@@ -9511,12 +9364,8 @@
  },
  "camera:Madden NFL 20": {
   "game": "Madden NFL 20",
-  "total": 2,
+  "total": 1,
   "shots": [
-   {
-    "time": "2020-07-01T16:50:03",
-    "img": "cam-a17e02a7-b567.webp"
-   },
    {
     "time": "2020-07-01T16:50:04",
     "img": "cam-b17efc41-1ad1.webp"
@@ -9525,7 +9374,7 @@
  },
  "camera:Ken Griffey Jr. Presents Major League Baseball": {
   "game": "Ken Griffey Jr. Presents Major League Baseball",
-  "total": 10,
+  "total": 8,
   "shots": [
    {
     "time": "2020-07-11T08:56:43",
@@ -9538,14 +9387,6 @@
    {
     "time": "2020-07-11T08:56:48",
     "img": "cam-a1043585-7d0b.webp"
-   },
-   {
-    "time": "2020-07-11T08:56:48",
-    "img": "cam-4b1bcd05-99ae.webp"
-   },
-   {
-    "time": "2020-07-12T17:21:40",
-    "img": "cam-02a2650d-80a3.webp"
    },
    {
     "time": "2020-07-12T17:21:41",
@@ -9571,20 +9412,11 @@
  },
  "camera:NCAA Football 2004": {
   "game": "NCAA Football 2004",
-  "total": 4,
+  "total": 2,
   "shots": [
-   {
-    "time": "2020-07-19T09:58:13",
-    "img": "cam-562a1532-5b6e.webp"
-   },
    {
     "time": "2020-07-19T09:58:14",
     "img": "cam-58d631ec-9796.webp"
-   },
-   {
-    "time": "2020-07-19T10:05:57",
-    "img": "cam-588b025f-0092.webp",
-    "tall": true
    },
    {
     "time": "2020-07-19T10:05:57",
@@ -9595,12 +9427,8 @@
  },
  "camera:NBA Live 96": {
   "game": "NBA Live 96",
-  "total": 2,
+  "total": 1,
   "shots": [
-   {
-    "time": "2020-07-19T10:46:04",
-    "img": "cam-9fb49d1a-017a.webp"
-   },
    {
     "time": "2020-07-19T10:46:05",
     "img": "cam-6834f8ab-893c.webp"
@@ -9609,15 +9437,11 @@
  },
  "camera:FIFA 20": {
   "game": "FIFA 20",
-  "total": 10,
+  "total": 9,
   "shots": [
    {
     "time": "2020-07-26T12:13:10",
     "img": "cam-306648b8-6cc0.webp"
-   },
-   {
-    "time": "2020-07-26T12:13:10",
-    "img": "cam-9043fab7-ddba.webp"
    },
    {
     "time": "2020-07-26T12:13:12",
@@ -9719,12 +9543,8 @@
  },
  "camera:Mario Kart Live: Home Circuit": {
   "game": "Mario Kart Live: Home Circuit",
-  "total": 9,
+  "total": 7,
   "shots": [
-   {
-    "time": "2020-10-20T19:06:30",
-    "img": "cam-c98788e1-cb68.webp"
-   },
    {
     "time": "2020-10-20T19:06:31",
     "img": "cam-65aa84e5-4301.webp"
@@ -9732,10 +9552,6 @@
    {
     "time": "2020-10-20T19:14:55",
     "img": "cam-3b22689b-b6e4.webp"
-   },
-   {
-    "time": "2020-10-20T19:14:55",
-    "img": "cam-c4cad588-3b94.webp"
    },
    {
     "time": "2020-10-20T20:05:29",
@@ -9761,7 +9577,7 @@
  },
  "camera:Retro Bowl + Retro Bowl College": {
   "game": "Retro Bowl + Retro Bowl College",
-  "total": 12,
+  "total": 8,
   "shots": [
    {
     "time": "2020-10-24T20:03:13",
@@ -9770,10 +9586,6 @@
    {
     "time": "2020-10-24T20:03:14",
     "img": "cam-1b16d215-d95a.webp"
-   },
-   {
-    "time": "2020-10-24T20:15:02",
-    "img": "cam-e2bbbcc8-880e.webp"
    },
    {
     "time": "2020-10-24T20:15:02",
@@ -9789,23 +9601,11 @@
    },
    {
     "time": "2020-10-24T20:30:01",
-    "img": "cam-362e3563-22ff.webp"
-   },
-   {
-    "time": "2020-10-24T20:30:01",
     "img": "cam-ca77fce4-e3b0.webp"
-   },
-   {
-    "time": "2020-10-29T19:01:10",
-    "img": "cam-02e4ed06-cc9e.webp"
    },
    {
     "time": "2020-10-29T19:01:11",
     "img": "cam-a8b97803-f268.webp"
-   },
-   {
-    "time": "2020-10-29T19:01:28",
-    "img": "cam-314b8dbd-2ce6.webp"
    },
    {
     "time": "2020-10-29T19:01:28",
@@ -9815,16 +9615,11 @@
  },
  "camera:Mother 3": {
   "game": "Mother 3",
-  "total": 15,
+  "total": 13,
   "shots": [
    {
     "time": "2021-06-28T22:44:57",
     "img": "cam-10baff71-70ea.webp",
-    "tall": true
-   },
-   {
-    "time": "2021-06-30T20:51:39",
-    "img": "cam-bcac63e2-3d70.webp",
     "tall": true
    },
    {
@@ -9844,11 +9639,6 @@
    {
     "time": "2021-07-10T12:55:49",
     "img": "cam-2658fcab-6eec.webp",
-    "tall": true
-   },
-   {
-    "time": "2021-07-11T18:55:24",
-    "img": "cam-d47ce2f1-5328.webp",
     "tall": true
    },
    {
@@ -9894,7 +9684,7 @@
  },
  "camera:FIFA 21": {
   "game": "FIFA 21",
-  "total": 11,
+  "total": 10,
   "shots": [
    {
     "time": "2021-07-18T11:00:39",
@@ -9907,10 +9697,6 @@
    {
     "time": "2021-07-18T11:00:41",
     "img": "cam-a22f46fe-393c.webp"
-   },
-   {
-    "time": "2021-07-18T11:00:41",
-    "img": "cam-a7014431-9839.webp"
    },
    {
     "time": "2021-07-18T11:00:42",
@@ -9944,12 +9730,8 @@
  },
  "camera:Phoenix Wright: Ace Attorney Trilogy": {
   "game": "Phoenix Wright: Ace Attorney Trilogy",
-  "total": 4,
+  "total": 3,
   "shots": [
-   {
-    "time": "2021-07-27T20:27:05",
-    "img": "cam-6bd7e7ed-8e96.webp"
-   },
    {
     "time": "2021-07-27T20:27:05",
     "img": "cam-40d0c1df-ba85.webp"
@@ -9967,7 +9749,7 @@
  },
  "camera:Drawful 2": {
   "game": "Drawful 2",
-  "total": 4,
+  "total": 3,
   "shots": [
    {
     "time": "2021-08-07T20:21:31",
@@ -9978,10 +9760,6 @@
     "img": "cam-62d59f39-23f6.webp"
    },
    {
-    "time": "2021-08-07T20:22:06",
-    "img": "cam-ac55bdf0-566e.webp"
-   },
-   {
     "time": "2021-08-07T20:22:07",
     "img": "cam-47656b73-a35a.webp"
    }
@@ -9989,12 +9767,8 @@
  },
  "camera:Tecmo Super Bowl": {
   "game": "Tecmo Super Bowl",
-  "total": 8,
+  "total": 7,
   "shots": [
-   {
-    "time": "2021-08-21T22:35:56",
-    "img": "cam-a4843073-a8e7.webp"
-   },
    {
     "time": "2021-08-21T22:35:56",
     "img": "cam-b69e8d84-81cc.webp"
@@ -10122,7 +9896,7 @@
  },
  "camera:Octopath Traveler II": {
   "game": "Octopath Traveler II",
-  "total": 21,
+  "total": 20,
   "shots": [
    {
     "time": "2021-12-27T13:15:51",
@@ -10131,10 +9905,6 @@
    {
     "time": "2021-12-27T13:15:51",
     "img": "cam-8913883e-a908.webp"
-   },
-   {
-    "time": "2023-03-11T17:40:39",
-    "img": "cam-6c914b4a-b995.webp"
    },
    {
     "time": "2023-03-11T17:40:39",
@@ -10237,16 +10007,11 @@
  },
  "camera:Wario Land: Super Mario Land 3": {
   "game": "Wario Land: Super Mario Land 3",
-  "total": 5,
+  "total": 4,
   "shots": [
    {
     "time": "2022-01-03T20:20:36",
     "img": "cam-f6bd11f8-962b.webp",
-    "tall": true
-   },
-   {
-    "time": "2022-01-03T20:20:36",
-    "img": "cam-42c0d783-7693.webp",
     "tall": true
    },
    {
@@ -10374,7 +10139,7 @@
  },
  "camera:NBA 2K23": {
   "game": "NBA 2K23",
-  "total": 18,
+  "total": 16,
   "shots": [
    {
     "time": "2022-11-06T14:28:12",
@@ -10400,14 +10165,6 @@
    {
     "time": "2023-01-06T18:52:35",
     "img": "cam-9796f29d-1917.webp"
-   },
-   {
-    "time": "2023-01-06T18:52:35",
-    "img": "cam-74f95702-574b.webp"
-   },
-   {
-    "time": "2023-01-06T18:52:40",
-    "img": "cam-d72158d1-d193.webp"
    },
    {
     "time": "2023-01-06T18:52:40",
@@ -10470,12 +10227,8 @@
  },
  "camera:The Legend of Zelda: Tears of the Kingdom": {
   "game": "The Legend of Zelda: Tears of the Kingdom",
-  "total": 4,
+  "total": 3,
   "shots": [
-   {
-    "time": "2023-05-14T09:37:01",
-    "img": "cam-e6c4c887-8be3.webp"
-   },
    {
     "time": "2023-05-14T09:37:01",
     "img": "cam-1da9f887-e253.webp"
@@ -10492,7 +10245,7 @@
  },
  "camera:NBA 2K24": {
   "game": "NBA 2K24",
-  "total": 22,
+  "total": 21,
   "shots": [
    {
     "time": "2023-09-07T10:23:07",
@@ -10538,10 +10291,6 @@
    {
     "time": "2024-01-25T14:36:10",
     "img": "cam-657816c2-a8e6.webp"
-   },
-   {
-    "time": "2024-01-25T14:36:10",
-    "img": "cam-ce119545-3f99.webp"
    },
    {
     "time": "2024-04-05T17:40:07",
@@ -10672,7 +10421,7 @@
  },
  "camera:Balatro": {
   "game": "Balatro",
-  "total": 9,
+  "total": 8,
   "shots": [
    {
     "time": "2024-03-08T18:48:52",
@@ -10698,10 +10447,6 @@
    {
     "time": "2024-12-16T20:02:14",
     "img": "cam-e871844a-1bd7.webp"
-   },
-   {
-    "time": "2024-12-16T20:02:14",
-    "img": "cam-f343d2c7-514a.webp"
    },
    {
     "time": "2025-01-22T22:01:26",
