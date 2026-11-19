@@ -6669,7 +6669,7 @@
  },
  "camera:John Madden Football '93": {
   "game": "John Madden Football '93",
-  "total": 17,
+  "total": 18,
   "shots": [
    {
     "time": "2013-05-25T10:02:03",
@@ -6734,6 +6734,10 @@
    {
     "time": "2025-08-21T18:22:06",
     "img": "cam-55ff2763-c744.webp"
+   },
+   {
+    "time": "2025-09-07T16:54:38",
+    "img": "cam-ff30cf56-fa13.webp"
    },
    {
     "time": "2025-09-07T17:13:29",
@@ -9767,7 +9771,7 @@
  },
  "camera:Tecmo Super Bowl": {
   "game": "Tecmo Super Bowl",
-  "total": 7,
+  "total": 6,
   "shots": [
    {
     "time": "2021-08-21T22:35:56",
@@ -9797,10 +9801,6 @@
     "time": "2024-11-30T18:53:35",
     "img": "cam-ca5b21c6-7090.webp",
     "tall": true
-   },
-   {
-    "time": "2025-09-07T16:54:38",
-    "img": "cam-ff30cf56-fa13.webp"
    }
   ]
  },
