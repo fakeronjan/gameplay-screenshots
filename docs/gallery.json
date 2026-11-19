@@ -9569,6 +9569,30 @@
    }
   ]
  },
+ "camera:NCAA Football 2004": {
+  "game": "NCAA Football 2004",
+  "total": 4,
+  "shots": [
+   {
+    "time": "2020-07-19T09:58:13",
+    "img": "cam-562a1532-5b6e.webp"
+   },
+   {
+    "time": "2020-07-19T09:58:14",
+    "img": "cam-58d631ec-9796.webp"
+   },
+   {
+    "time": "2020-07-19T10:05:57",
+    "img": "cam-588b025f-0092.webp",
+    "tall": true
+   },
+   {
+    "time": "2020-07-19T10:05:57",
+    "img": "cam-90af353b-df8a.webp",
+    "tall": true
+   }
+  ]
+ },
  "camera:NBA Live 96": {
   "game": "NBA Live 96",
   "total": 2,
